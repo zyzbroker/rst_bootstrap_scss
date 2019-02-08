@@ -1,8 +1,8 @@
-name: rst_bootstrap
+name: bootstrap
 description: A bootstrap latest SCSS based bootstrap css framework
 version: 4.2.1
 author: David Zhao <david.zhao@resentek.com>
-homepage: null
+homepage: https://github.com/zyzbroker/rst_bootstrap_scss.git
 
 environment:
   sdk: '>=2.0.0 < 3.0.0'
